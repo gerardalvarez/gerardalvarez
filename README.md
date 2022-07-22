@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+kasñdhfaiopwdfhàwojidefgoàiedgjoàidgjop+asdjigp+asjodgp+asodjgp+asfgjo+apsdiogjoàisdfgjqaìorfgj
 
 -------------------
 
@@ -16,8 +16,8 @@ Hello, I am full stack developer, working on multiple open source projects, main
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=gerardalvarez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=gerardalvarez&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
