@@ -41,7 +41,7 @@ I will love to hear from you, whether it's a project, job opportunity or just ch
   <br/>
   &nbsp;
   &nbsp;
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Most used languages is only a statistic of my public code so it doesn't reflect my experience or skill level at all.
   </p>
 </details>
 
