@@ -47,7 +47,7 @@ I will love to hear from you, whether it's a project, job opportunity or just ch
 
 <br/>
 <details>
-  <summary><b> Recent GitHub Activit ⚡y</b></summary>
+  <summary><b> Recent GitHub Activity ⚡</b></summary>
   <br/>
    <a href="https://github.com/gerardalvarez"><img alt="gearrdalvarez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gerardalvarez&custom_title=Gerard%20Alvarez's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
