@@ -35,7 +35,8 @@ I will love to hear from you, whether it's a project, job opportunity or just ch
    ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=gerardalvarez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
    
    ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=gerardalvarez&theme=radical&include_all_commits=true&count_private=true)
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerardalvarez&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gerardalvarez" height="192px"/>
+     &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerardalvarez&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gerardalvarez" height="192px"/>
     
   <br/>
   &nbsp;
