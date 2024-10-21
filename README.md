@@ -8,8 +8,11 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+SC&size=22&color=E6F733&center=true&lines=Welcome+to+my+git+profile;Computer+Science+Student;Full+Stack+Web+Developer;Enthusiast)](https://git.io/typing-svg)
 </p>
 <hr/>
-<h4 align="center">Hey! I am a 21-year-old student at the Universitat Politècnica de Catalunya (FIB) based in Barcelona. I have studied different programming languages and software architectures since I have specialized in that. However, much of my knowledge is self-taught, so I have no problem learning new technologies. I consider myself a Full-Stack developer.
-I will love to hear from you, whether it's a project, job opportunity or just chat. Feel free to to contact me.</h4>
+<h4 align="center">Hello! I’m Gerard, a passionate Computer Engineer specialized in Software Engineering, with a degree from FIB (UPC). I’m eager to continue advancing my career in the tech industry by taking on new and diverse projects that challenge me to innovate and grow.
+
+With a solid foundation in software development and hands-on experience, I bring not only technical skills but also a proactive mindset and a commitment to delivering high-quality solutions. I thrive in dynamic environments where I can collaborate with talented teams, drive progress, and contribute to meaningful projects.
+
+I’m enthusiastic about leveraging my expertise and motivation to support the growth of new ventures and bring value through technology. I will love to hear from you, whether it's a project, job opportunity or just chat. Feel free to to contact me.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gerardalvarez8&label=Profile%20views&color=0e75b6&style=plastic" alt="gerardalvarez" /> </p>
   
