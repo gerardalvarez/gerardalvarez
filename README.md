@@ -64,7 +64,7 @@ I’m enthusiastic about leveraging my expertise and motivation to support the g
 
   
 ## Contact me
-<a href="https://www.instagram.com/gerardalvarez_/">![Instagram](https://img.shields.io/badge/gerardalvarez_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/gritaman123">![Twitter](https://img.shields.io/badge/GerardAlvarezDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/gerardalvarezizquierdo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/gerardalvarezizquierdo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a> 
   
 <br />
